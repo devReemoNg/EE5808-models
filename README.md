@@ -1,4 +1,4 @@
-# OBJL serve models
+# EE5808 OBJL serve models
 
 For CDN usage in EE5808.  
 
@@ -14,7 +14,7 @@ https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/<dir_path>/<file_name>
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/bird_orange/scene.gltf
 ```
 
-In the javascripr
+In the Javascript
 ```js
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 
