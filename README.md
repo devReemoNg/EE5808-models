@@ -25,15 +25,15 @@ async function createGltfModelsStatic(modalPath) {
 
   root.traverse((obj) => {
     if (obj.castShadow !== undefined) {
-    obj.castShadow = true;
-    obj.receiveShadow = true;
+      obj.castShadow = true;
+      obj.receiveShadow = true;
     }
   });
 
   return root
 }
 
-const bird = await createGltfModels(
+const bird = await createGltfModelsStatic(
     "https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/bird_orange/scene.gltf"
 );
 ```
