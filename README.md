@@ -2,7 +2,7 @@
 
 For CDN usage in EE5808.  
 
-We are welcome for you to use your own models / assert in gneral. But for demo and other usage, you can use the following models for your assignment 2.
+We are welcome for you to use your own models / assert in general. But for demo and other usage, you can use the following models for your assignment 2.
 
 ## Usage
 Url link refer
@@ -68,7 +68,7 @@ https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/free_animals_pack/scene.glt
 ```
 
 ## References Scene Link
-- [Metro/Subway Station Interior](https://sketchfab.com/3d-models/quirky-series-free-animals-pack-19e91ef86cd0448f9cbb5d6c538dade2](https://sketchfab.com/3d-models/metrosubway-station-interior-14f5a6534607450d82583e0aa0ed345b)
+- [Metro/Subway Station Interior](https://sketchfab.com/3d-models/quirky-series-free-animals-pack-19e91ef86cd0448f9cbb5d6c538dade2)
 ```md
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/metrosubway_station_interior/scene.gltf
 ```
