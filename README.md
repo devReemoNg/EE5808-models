@@ -72,3 +72,7 @@ https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/free_animals_pack/scene.glt
 ```md
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/metrosubway_station_interior/scene.gltf
 ```
+
+## Licenses
+
+Attribution 4.0 International
