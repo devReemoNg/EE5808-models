@@ -6,3 +6,4 @@ For CDN usage
 - [Eye Robot](https://sketchfab.com/3d-models/eye-robot-0f62aedb1f564133b259b1dd02297673)
 - [Constitution II Class Railgun Destroyer DDR-2000](https://sketchfab.com/3d-models/constitution-ii-class-railgun-destroyer-ddr-2000-3b04b0a0dc1244d28d99382f7d33d54e)
 - [Shiba](https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7b2989d1c1ece361c)
+- [Quirky Series - FREE Animals Pack](https://sketchfab.com/3d-models/quirky-series-free-animals-pack-19e91ef86cd0448f9cbb5d6c538dade2)
