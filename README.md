@@ -1,4 +1,7 @@
 # OBJL serve models
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/338f3709-f8e5-4154-b49f-4ea440999f55/deploy-status)](https://app.netlify.com/sites/ee5808-cdn-demo/deploys)
+
 For CDN usage in EE5808
 
 ## Usage
