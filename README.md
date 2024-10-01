@@ -1,17 +1,45 @@
 # OBJL serve models
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/338f3709-f8e5-4154-b49f-4ea440999f55/deploy-status)](https://app.netlify.com/sites/ee5808-cdn-demo/deploys)
+For CDN usage in EE5808.  
 
-For CDN usage in EE5808
+We are welcome for you to use your own models / assert in gneral. But for demo and other usage, you can use the following models for your assignment 2.
 
 ## Usage
+Url link refer
 ```md
 ## Basic endpoint
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/<dir_path>/<file_name>
 
-## Get and load the Bird Orange GLTF model from this repo
+## E.g. get and load the Bird Orange GLTF model from this repo
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/bird_orange/scene.gltf
 ```
+
+In the javascripr
+```js
+import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
+
+async function createGltfModelsStatic(modalPath) {
+  const gltfLoader = new GLTFLoader();
+  const gltf = await gltfLoader.loadAsync(modalPath);
+  const root = gltf.scene;
+
+  root.traverse((obj) => {
+    if (obj.castShadow !== undefined) {
+    obj.castShadow = true;
+    obj.receiveShadow = true;
+    }
+  });
+
+  return root
+}
+
+const bird = await createGltfModels(
+    "https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/bird_orange/scene.gltf"
+);
+```
+
+## Demo html
+- [Click here](https://github.com/devReemoNg/EE5808-models/blob/main/demo%20html/index.js)
 
 ## References Models Link
 - [Bird Orange](https://sketchfab.com/3d-models/bird-orange-0d31748606c2499fb652c0c1052b7cfa)
@@ -40,7 +68,7 @@ https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/free_animals_pack/scene.glt
 ```
 
 ## References Scene Link
-- [Metro/Subway Station Interior]([https://sketchfab.com/3d-models/quirky-series-free-animals-pack-19e91ef86cd0448f9cbb5d6c538dade2](https://sketchfab.com/3d-models/metrosubway-station-interior-14f5a6534607450d82583e0aa0ed345b))
+- [Metro/Subway Station Interior](https://sketchfab.com/3d-models/quirky-series-free-animals-pack-19e91ef86cd0448f9cbb5d6c538dade2](https://sketchfab.com/3d-models/metrosubway-station-interior-14f5a6534607450d82583e0aa0ed345b)
 ```md
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/metrosubway_station_interior/scene.gltf
 ```
