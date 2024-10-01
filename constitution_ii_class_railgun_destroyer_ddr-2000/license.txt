@@ -1,0 +1,11 @@
+Model Information:
+* title:	Constitution II Class Railgun Destroyer DDR-2000
+* source:	https://sketchfab.com/3d-models/constitution-ii-class-railgun-destroyer-ddr-2000-3b04b0a0dc1244d28d99382f7d33d54e
+* author:	Peter Primini (https://sketchfab.com/Planetrix23)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Constitution II Class Railgun Destroyer DDR-2000" (https://sketchfab.com/3d-models/constitution-ii-class-railgun-destroyer-ddr-2000-3b04b0a0dc1244d28d99382f7d33d54e) by Peter Primini (https://sketchfab.com/Planetrix23) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
