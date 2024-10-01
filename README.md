@@ -1,5 +1,7 @@
 # EE5808 OBJL serve models
 
+URL: https://github.com/devReemoNg/EE5808-models
+
 For CDN usage in EE5808.  
 
 We are welcome for you to use your own models / assert in general. But for demo and other usage, you can use the following models for your assignment 2.
