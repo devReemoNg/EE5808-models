@@ -12,8 +12,11 @@ Url link refer
 ## Basic endpoint
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/<dir_path>/<file_name>
 
-## E.g. get and load the Bird Orange GLTF model from this repo
+## E.g. Load the Bird Orange GLTF model from this repo
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/bird_orange/scene.gltf
+
+## E.g. Load the space.jpg
+https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/static/space.jpg
 ```
 
 In the Javascript
