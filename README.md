@@ -1,13 +1,17 @@
-# EE5808 OBJL serve models
+# 🤖 EE5808 OBJL serve models
 
-URL: https://github.com/devReemoNg/EE5808-models
+Github URL:   
+https://github.com/devReemoNg/EE5808-models
 
-For CDN usage in EE5808.  
+For CDN usage in course `EE5808`.  
+
+## 📝 Description
 
 We are welcome for you to use your own models / assert in general. But for demo and other usage, you can use the following models for your assignment 2.
 
-## Usage
-Url link refer
+## 🚀 CDN Usage
+
+Using the follow link structure to load the content.
 ```md
 ## Basic endpoint
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/<dir_path>/<file_name>
@@ -19,7 +23,7 @@ https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/bird_orange/scene.gltf
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/static/space.jpg
 ```
 
-In the Javascript
+In the Javascript `Three.js`
 ```js
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
 
@@ -43,10 +47,10 @@ const bird = await createGltfModelsStatic(
 );
 ```
 
-## Demo html
+## 💻 Demo HTML code
 - [Click here](https://github.com/devReemoNg/EE5808-models/blob/main/demo%20html/index.js)
 
-## References Models Link
+## 🔗 References Models Link
 - [Bird Orange](https://sketchfab.com/3d-models/bird-orange-0d31748606c2499fb652c0c1052b7cfa)
 ```md
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/bird_orange/scene.gltf
@@ -72,12 +76,12 @@ https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/shiba/scene.gltf
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/free_animals_pack/scene.gltf
 ```
 
-## References Scene Link
+## 🎬 References Scene Link
 - [Metro/Subway Station Interior](https://sketchfab.com/3d-models/quirky-series-free-animals-pack-19e91ef86cd0448f9cbb5d6c538dade2)
 ```md
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/metrosubway_station_interior/scene.gltf
 ```
 
-## Licenses
+## 📋 Licenses
 
 Attribution 4.0 International
