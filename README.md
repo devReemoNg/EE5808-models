@@ -77,9 +77,15 @@ https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/free_animals_pack/scene.glt
 ```
 
 ## 🎬 References Scene Link
+
 - [Metro/Subway Station Interior](https://sketchfab.com/3d-models/quirky-series-free-animals-pack-19e91ef86cd0448f9cbb5d6c538dade2)
 ```md
 https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/metrosubway_station_interior/scene.gltf
+```
+
+- [(FREE) Ice Cream Shop](https://sketchfab.com/3d-models/free-ice-cream-shop-518dab2670a7465f9754875f543de202)
+```md
+https://cdn.jsdelivr.net/gh/devReemoNg/EE5808-models/free_ice_cream_shop/scene.gltf
 ```
 
 ## 📋 Licenses
